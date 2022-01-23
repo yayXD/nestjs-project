@@ -1,1 +1,1 @@
-http://localhost:5000/api/docs
+Swagger UI: http://localhost:5000/api/docs
